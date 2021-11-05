@@ -1,0 +1,85 @@
+body
+{
+    background-color: slategrey;
+    background-image: url(images/img2.JPG);
+    background-repeat:repeat;
+}
+
+.container
+{
+ margin-left:2%;
+ margin-right:auto;
+ width:1024;
+ 
+}
+
+
+header
+{
+  width:1024px;
+  height:120px;
+  background-color: rgba(255, 160, 122, 0.603);
+  background-image:url(images/img5.jpg);
+}
+.logo
+{
+height:20px;
+width:40px ;
+
+}
+nav
+ {
+     background-color:rgba(0, 128, 128, 0.466);
+     height:80px;
+     width: 1024px;
+     text-align:right;
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+ }
+ nav a
+ {
+   padding:2%;
+   font-size:25px ;
+   color: black;
+ }
+
+main
+{
+ height:400px;
+ width: 1024px;
+ 
+ text-align:center;
+ margin-top:40px;
+ padding-left:50px ;
+ padding-right:50px;
+ }
+ h2
+ {
+      font-size:60px ;
+      color:white ;
+      font-family:Arial, Helvetica, sans-serif ;
+ }
+ p
+ {
+     font-size:20px ;
+     color:white ;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+footer
+{
+ height:40px ;
+ width:1024px;
+ background-color: rgba(0, 128, 128, 0.747);;
+ }
+
+ footer p
+ {
+ text-align: center;
+ color: white;
+
+ }
+
+
